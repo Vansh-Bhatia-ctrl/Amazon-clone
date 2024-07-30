@@ -1,4 +1,4 @@
-# Amazon-clone
-This is my first clone 
+# Git-demo
+This is my first repo 
 <br/>
 Author - Vansh Bhatia
